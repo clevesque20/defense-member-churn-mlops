@@ -1,9 +1,6 @@
 # Defense Member Churn MLOps Project
 
-
 ## Architecture (Overview)
-
-![Architecture Diagram](diagrams/architecture.png)
 
 ## Overview
 End-to-end MLOps pipeline for predicting **defense industry member churn** for a workforce development defense technology non-profit.
