@@ -5,15 +5,6 @@
 
 ![Architecture Diagram](diagrams/architecture.png)
 
-> For a folder-level view of data flow, see the repo tree diagram below.
-
-## Repo Tree + Dataflow
-
-![Repo Tree & Dataflow](diagrams/repo_tree.png)
-
-
-![Architecture Diagram](diagrams/architecture.png)
-
 ## Overview
 End-to-end MLOps pipeline for predicting **defense industry member churn** for a workforce development defense technology non-profit.
 
